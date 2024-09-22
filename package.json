@@ -1,0 +1,35 @@
+{
+  "name": "@barudakrosul/parse-boolean",
+  "version": "0.0.1",
+  "description": "Converts a boolean in the format string into a original boolean type",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarudakRosul/parse-boolean.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "keywords": [
+    "parse",
+    "boolean",
+    "string"
+  ],
+  "author": "Barudak Rosul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BarudakRosul/parse-boolean/issues"
+  },
+  "homepage": "https://github.com/BarudakRosul/parse-boolean#readme",
+  "funding": {
+    "url": "https://ko-fi.com/barudakrosul"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.7.3"
+  }
+}
