@@ -73,7 +73,7 @@ const bool = "true"; // or "false"
 
 if (parseBoolean(bool)) {
   console.log("Done!");
-} else if (parseBoolean(bool)) {
+} else {
   console.log("Failed!");
 }
 ```
