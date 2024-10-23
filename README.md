@@ -60,11 +60,6 @@ const parseBoolean = require("@barudakrosul/parse-boolean");
 import parseBoolean from "@barudakrosul/parse-boolean";
 ```
 
-**3\. TypeScript**
-```typescript
-import parseBoolean from "@barudakrosul/parse-boolean";
-```
-
 Contoh penggunaan:
 
 ```javascript
